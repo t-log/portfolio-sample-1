@@ -1,0 +1,21 @@
+div{
+    width: 500px;
+    height: 450px;
+    background-color: blueviolet;
+    /* position: relative; */
+}
+.one{
+    /* position: static; */
+    /* position: relative; */
+    /* position: fixed; */
+    /* position: absolute; */
+    /* position: sticky; */
+    top: 50px;
+    background-color: brown;
+    color: aliceblue;
+}
+.two{
+    position:sticky ;
+    top:0px;
+    background-color: chocolate;
+}
